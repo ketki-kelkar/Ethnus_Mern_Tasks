@@ -1,6 +1,7 @@
 # Ethnus_Mern_Tasks
+Below is the description of all the tasks that I performed during the MERN full stack course by ETHNUS:
 
-# HTML Tasks - Course Progress
+# HTML Tasks 
 
 This README document outlined the tasks of HTML tasks as part of my course.
 
@@ -25,7 +26,7 @@ This README document outlined the tasks of HTML tasks as part of my course.
 **Details:** I created a comprehensive registration form using HTML. This form includes fields for users to input their personal information, such as name, email, and password. It provides a practical example of form design and user data collection.
 
 
-# CSS Tasks - Course Progress
+# CSS Tasks 
 
 This README document outlined the tasks of CSS tasks as part of my course. 
 
